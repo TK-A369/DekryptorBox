@@ -9,5 +9,5 @@ Ruby można zainstalować [tutaj](https://www.ruby-lang.org/en/downloads/).
 Po zainstalowaniu Ruby za pomocą linii polecenia wejdź do katalogu 
 DekryptorBox i wpisz:
 ```
-ruby dekryptorbox.rb _ plik do odszyfrowania _
+ruby dekryptorbox.rb *plik do odszyfrowania*.
 ```
